@@ -37,8 +37,7 @@ There are multiple versions of the pack the launcher is the "full fat" version h
 ## Platform Status
 
 **Key:**  
-  ✔️ - Added  
-  ⚠️ - Getting Removed/Depreciated  
+  ✔️ - Added   
   🔄 - Working On It  
   ❌ - Not Updated  
 **U** = ~~Universal (Pack Sync Across Platforms) **DROPPED this will never get updated**~~  
@@ -46,14 +45,10 @@ There are multiple versions of the pack the launcher is the "full fat" version h
 **L** = *Launcher Version (Main Full Version)*  
 **B** = *Beta Unstable release*
 
-|      Platform       | On Latest |    Fabric    |
+|      Platform       | On Latest |    Version    |
 | :-----------------: | :-------: | :----------: |
-| CurseForge/OverWolf |     ⚠️🔄     | Coming Soon! |
-|       Technic       |     ✔️     |   P-2.1.4   |
-|      TLauncher      |     ⚠️🔄    |  |
-|    Our Launcher     |     ✔️     |  L-2.1.4    |
-|       MultiMC       |     ✔️     |   P-2.1.4   |
-|     GDLauncher      |     ❌     | Coming Soon! |
+|    Our Launcher     |     🔄     |  2.3.8    |
+|       MultiMC       |     ✔️     |   2.4.0   |
 
 ## Links!
 **Launcher:**  [![download](https://cdn.discordapp.com/attachments/686927724098748424/799879856841555978/download-2-16.png)](https://cds.networkforgamers.com/launcher/)
