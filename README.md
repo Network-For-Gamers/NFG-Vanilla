@@ -1,6 +1,6 @@
 [![NFGMC](https://cdn.discordapp.com/attachments/686927724098748424/799878303124029451/Capture.PNG)][NFGMC]
 
-# NFG-Vanilla (Wiki/Info)
+# NFG-Launcher ModPack (Wiki/Info)
 
 A Mod Pack designed around our network, This pack is available on fabric and on forge(this may not stay), the pack adds many mods that will only change things client side that are non cheaty, and server friendly which should mean you can use it on your favourite servers such as hypixel. 
 
@@ -33,3 +33,41 @@ There are multiple versions of the pack the launcher is the "full fat" version h
 | Mod                            |   Mod Version    | In Dev | In Release |
 | :----------------------------- | :--------------: | :---------: | :------------------: |
 | Apple Skin                     |      1.0.11      |      ✔️      |          ✔️           |
+
+## Platform Status
+
+**Key:**  
+  ✔️ - Added  
+  ⚠️ - Getting Removed/Depreciated  
+  🔄 - Working On It  
+  ❌ - Not Updated  
+**U** = ~~Universal (Pack Sync Across Platforms) **DROPPED this will never get updated**~~  
+**P** = *Pack Version (Reduced Feature Set)*  
+**L** = *Launcher Version (Main Full Version)*  
+**B** = *Beta Unstable release*
+
+|      Platform       | On Latest |    Fabric    |
+| :-----------------: | :-------: | :----------: |
+| CurseForge/OverWolf |     ⚠️🔄     | Coming Soon! |
+|       Technic       |     ✔️     |   P-2.1.4   |
+|      TLauncher      |     ⚠️🔄    |  |
+|    Our Launcher     |     ✔️     |  L-2.1.4    |
+|       MultiMC       |     ✔️     |   P-2.1.4   |
+|     GDLauncher      |     ❌     | Coming Soon! |
+
+## Links!
+**Launcher:**  [![download](https://cdn.discordapp.com/attachments/686927724098748424/799879856841555978/download-2-16.png)](https://cds.networkforgamers.com/launcher/)
+
+**Curse:** *Coming Soon!*  
+
+**Technic:** https://www.technicpack.net/modpack/nfg-vanilla.1772545
+
+**MultiMC/GDLauncher:**  [![download](https://cdn.discordapp.com/attachments/686927724098748424/799879856841555978/download-2-16.png)](https://cds.networkforgamers.com/modpacks/)
+
+**TLauncher:** *Being Re-added To The Platform When We Drop forge support*
+
+### JOIN OUR DISCORD!
+[![discord](https://discordapp.com/api/guilds/664178166562029715/embed.png?style=banner3)][discord]
+---
+[discord]: https://discord.gg/ZXXc6mcd3d "Discord"
+[NFGMC]: https://minecraft.networkforgamers.com "NFGMC"
