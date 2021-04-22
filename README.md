@@ -27,12 +27,45 @@ There are multiple versions of the pack the launcher is the "full fat" version h
 | Feature | Mod Needed | Status | In Dev Branch | In Mod Pack | Notes |
 | :- | :-: | :-: | :-: | :-: | :-: |
 | Forge Mod Compatibility| PatchworkAPI | 🔄 | ❗ | ❌ ||
-| Texture for each version | N/A | ✔️ | ✔️ | ✔️ | pack textures need doing will come in new version |
+| Texture for each version | N/A | ❓ | 🔄 | 🔄 | pack textures need doing to comp for OP |
 
 ## Mods Included
 | Mod                            |   Mod Version    | In Dev | In Release | Link | 
 | :----------------------------- | :--------------: | :---------: | :------------------: | :------------------: |
-| Apple Skin                     |      1.0.11      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/appleskin/files |
+| Apple Skin                     |      1.0.11      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/appleskin |
+| AuthMe                    |      1.4.0      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/auth-me |
+| AutoReconnect                    |      1.1.0      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/autoreconnect |
+| Bedrockify                    |      1.0.0      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/bedrockify |
+| BetterDroppedItems                    |      1.2.4      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/better-dropped-items |
+| BetterPVPMod                    |      21.7.0      |      ✔️      |          ✔️           | https://chocolateminecraft.com/betterpvp2.php |
+| BetterF3                    |      1.1.2      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/betterf3 |
+| can-i-mine-this-block                    |      1.0.2      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/can-i-mine-this-block |
+| colored tooltips                    |      1.1.0      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/colored-tooltips-fabric |
+| CraftPresence                    |      1.8.1      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/craftpresence |
+| CrossBinding                    |      1.0      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/crossbinding |
+| CustomHUD                   |      1.2.1      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/customhud |
+| DarkLoadingScreen                  |      1.6.3      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen |
+| DynamicFPS                  |      2.0.1      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/dynamic-fps |
+| FabricAPI                  |      0.33.0      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/fabric-api |
+| FallingLeaves                  |      1.5.0      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric |
+| FancyMenu                 |      2.0.5      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/fancymenu-fabric |
+| HealthOverlay                |      3.6.14      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/health-overlay-fabric |
+| Illuminations               |      1.4.9      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/illuminations |
+| ItemModelFix               |      1.0.0      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/item-model-fix |
+| Konkrete              |      1.1.7      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/konkrete-fabric |
+| MinecraftCapesMod              |      1.16.5v10      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/minecraftcapes-mod |
+| ModMenu             |      1.16.9      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/modmenu |
+| Multiconnect             |      1.3.36     |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/multiconnect |
+| NoAnnoyingSettings             |      1.1     |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/no-annoying-settings |
+| OptiFabric             |      1.9.6     |      ✔️      |          ❌           | https://www.curseforge.com/minecraft/mc-mods/optifabric |
+| OptiFine             |      1.16.6_HD_U_G7     |      ✔️      |          ❌           | https://optifine.net/downloads |
+| SeamlessLoadingScreen            |      1.3.4    |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen |
+| toolTipFix           |      1.0.2    |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/tooltipfix |
+| Vanguard-uninstaller           |      N/A    |      ✔️      |          ✔️           | N/A (AutoDownload?) |
+| ViaBackwards           |      3.2.0    |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/viabackwards |
+| ViaFabric           |      0.3.1    |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/viafabric |
+| wthit           |      2.7.0    |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/wthit |
+
 
 ## Platform Status
 
