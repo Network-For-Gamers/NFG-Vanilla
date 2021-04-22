@@ -42,6 +42,7 @@ There are multiple versions of the pack the launcher is the "full fat" version h
 | BetterPVPMod                    |      21.7.0      |      ✔️      |          ✔️           | https://chocolateminecraft.com/betterpvp2.php |
 | BetterF3                    |      1.1.2      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/betterf3 |
 | can-i-mine-this-block                    |      1.0.2      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/can-i-mine-this-block |
+| ClassicCombat                    |      N/A      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/classic-combat |
 | colored tooltips                    |      1.1.0      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/colored-tooltips-fabric |
 | CraftPresence                    |      1.8.1      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/craftpresence |
 | CrossBinding                    |      1.0      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/crossbinding |
