@@ -30,9 +30,9 @@ There are multiple versions of the pack the launcher is the "full fat" version h
 | Texture for each version | N/A | ✔️ | ✔️ | ✔️ | pack textures need doing will come in new version |
 
 ## Mods Included
-| Mod                            |   Mod Version    | In Dev | In Release |
+| Mod                            |   Mod Version    | In Dev | In Release | Link | 
 | :----------------------------- | :--------------: | :---------: | :------------------: |
-| Apple Skin                     |      1.0.11      |      ✔️      |          ✔️           |
+| Apple Skin                     |      1.0.11      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/appleskin/files |
 
 ## Platform Status
 
