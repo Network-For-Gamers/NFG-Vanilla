@@ -34,6 +34,7 @@ There are multiple versions of the pack the launcher is the "full fat" version h
 | Mod                            |   Mod Version    | In Dev | In Release | Link | 
 | :----------------------------- | :--------------: | :---------: | :------------------: | :------------------: |
 | Apple Skin                     |      1.0.11      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/appleskin |
+| Architectury                     |      1.12.145      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/architectury-fabric |
 | AuthMe                    |      1.4.0      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/auth-me |
 | AutoReconnect                    |      1.1.0      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/autoreconnect |
 | Bedrockify                    |      1.0.0      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/bedrockify |
@@ -52,6 +53,7 @@ There are multiple versions of the pack the launcher is the "full fat" version h
 | FabricAPI                  |      0.33.0      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/fabric-api |
 | FallingLeaves                  |      1.5.0      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric |
 | FancyMenu                 |      2.0.5      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/fancymenu-fabric |
+| FixMyGG                |      5.1      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/fixmygg |
 | HealthOverlay                |      3.6.14      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/health-overlay-fabric |
 | Illuminations               |      1.4.9      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/illuminations |
 | ItemModelFix               |      1.0.0      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/item-model-fix |
@@ -60,11 +62,15 @@ There are multiple versions of the pack the launcher is the "full fat" version h
 | ModMenu             |      1.16.9      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/modmenu |
 | Multiconnect             |      1.3.36     |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/multiconnect |
 | NoAnnoyingSettings             |      1.1     |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/no-annoying-settings |
+| NotEnoughAnimations            |      1.2.3     |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/not-enough-animations |
 | OptiFabric             |      1.9.6     |      ✔️      |          ❌           | https://www.curseforge.com/minecraft/mc-mods/optifabric |
 | OptiFine             |      1.16.6_HD_U_G7     |      ✔️      |          ❌           | https://optifine.net/downloads |
+| RandomPatches             |      2.4.5     |      ✔️      |          ❌           | https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric |
 | SeamlessLoadingScreen            |      1.3.4    |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen |
 | Sneaktweak           |      1.4.0    |      ✔️      |          ❌           | https://www.curseforge.com/minecraft/mc-mods/sneak-tweak |
 | toolTipFix           |      1.0.2    |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/tooltipfix |
+| torohealth           |      1.16.4-fabric-4    |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators |
+| TRansliterationLib          |      1.0.4    |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/transliterationlib |
 | Vanguard-uninstaller           |      N/A    |      ✔️      |          ✔️           | N/A (AutoDownload?) |
 | ViaBackwards           |      3.2.0    |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/viabackwards |
 | ViaFabric           |      0.3.1    |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/viafabric |
@@ -72,12 +78,6 @@ There are multiple versions of the pack the launcher is the "full fat" version h
 
 
 ## Platform Status
-
-**Key:**  
-  ✔️ - Added   
-  🔄 - Working On It  
-  ❌ - Not Updated  
-
 |      Platform       | On Latest |    Version    |
 | :-----------------: | :-------: | :----------: |
 |    Our Launcher     |     ❌     |  2.3.8    |
