@@ -40,17 +40,13 @@ There are multiple versions of the pack the launcher is the "full fat" version h
   ✔️ - Added   
   🔄 - Working On It  
   ❌ - Not Updated  
-**U** = ~~Universal (Pack Sync Across Platforms) **DROPPED this will never get updated**~~  
-**P** = *Pack Version (Reduced Feature Set)*  
-**L** = *Launcher Version (Main Full Version)*  
-**B** = *Beta Unstable release*
 
 |      Platform       | On Latest |    Version    |
 | :-----------------: | :-------: | :----------: |
-|    Our Launcher     |     🔄     |  2.3.8    |
+|    Our Launcher     |     ❌     |  2.3.8    |
 |       MultiMC       |     ✔️     |   3.0.0 BETA 1   |
-|       TechnicPack       |     🔄     |   2.4.0   |
-|       TLauncher       |     🔄     |   2.4.0   |
+|       TechnicPack       |     ❌     |   2.4.0   |
+|       TLauncher       |     ❌     |   2.4.0   |
 
 ## Links!
 **Launcher:**  [![download](https://cdn.discordapp.com/attachments/686927724098748424/799879856841555978/download-2-16.png)](https://cds.networkforgamers.com/launcher/)
