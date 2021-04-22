@@ -44,6 +44,7 @@ There are multiple versions of the pack the launcher is the "full fat" version h
 | BetterF3                    |      1.1.2      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/betterf3 |
 | can-i-mine-this-block                    |      1.0.2      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/can-i-mine-this-block |
 | ClassicCombat                    |      N/A      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/classic-combat |
+| Cloth-Config                    |      4.11.19      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/cloth-config |
 | colored tooltips                    |      1.1.0      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/colored-tooltips-fabric |
 | CraftPresence                    |      1.8.1      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/craftpresence |
 | CrossBinding                    |      1.0      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/crossbinding |
@@ -58,6 +59,7 @@ There are multiple versions of the pack the launcher is the "full fat" version h
 | Illuminations               |      1.4.9      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/illuminations |
 | ItemModelFix               |      1.0.0      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/item-model-fix |
 | Konkrete              |      1.1.7      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/konkrete-fabric |
+| LightOverlay             |      15.8.0      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/light-overlay |
 | MinecraftCapesMod              |      1.16.5v10      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/minecraftcapes-mod |
 | ModMenu             |      1.16.9      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/modmenu |
 | Multiconnect             |      1.3.36     |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/multiconnect |
