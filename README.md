@@ -1,8 +1,9 @@
-[![NFGMC](https://cdn.discordapp.com/attachments/686927724098748424/799878303124029451/Capture.PNG)][NFGMC]
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/785169268647526420/834695333694406706/vanilla.png" />
+</p>
 
 # NFG-Launcher ModPack (Wiki/Info)
-
-A Mod Pack designed around our network, This pack is available on fabric and on forge(this may not stay), the pack adds many mods that will only change things client side that are non cheaty, and server friendly which should mean you can use it on your favourite servers such as hypixel. 
+A Mod Pack designed around our network, This pack is available on fabric and on forge(this may not stay), the pack adds many mods that will only change things client side that are non cheaty, and server friendly which should mean you can use it on your favourite servers such as hypixel.
 
 **please check with these servers that the mods this pack uses is okay to use on their server as we will not accept responsibility for any bans because of this pack!**
 
