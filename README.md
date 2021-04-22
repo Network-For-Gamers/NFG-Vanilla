@@ -28,6 +28,7 @@ There are multiple versions of the pack the launcher is the "full fat" version h
 | :- | :-: | :-: | :-: | :-: | :-: |
 | Forge Mod Compatibility| PatchworkAPI | 🔄 | ❗ | ❌ ||
 | Texture for each version | N/A | ❓ | 🔄 | 🔄 | pack textures need doing to comp for OP |
+| Icon Changes | N/A | 🔄 | 🔄 | 🔄 | icon changes for launcher and vanilla merger |
 
 ## Mods Included
 | Mod                            |   Mod Version    | In Dev | In Release | Link | 
