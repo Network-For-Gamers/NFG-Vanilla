@@ -84,7 +84,7 @@ There are multiple versions of the pack the launcher is the "full fat" version h
 |      Platform       | On Latest |    Version    |
 | :-----------------: | :-------: | :----------: |
 |    Our Launcher     |     ❌     |  2.3.8    |
-|       MultiMC       |     ✔️     |   3.0.0 BETA 1   |
+|       MultiMC       |     ✔️     |   3.0.5   |
 |       TechnicPack       |     ❌     |   2.4.0   |
 |       TLauncher       |     ❌     |   2.4.0   |
 
