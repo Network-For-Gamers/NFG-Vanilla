@@ -95,7 +95,7 @@ There are multiple versions of the pack the launcher is the "full fat" version h
 
 **MultiMC/GDLauncher:**  [![download](https://cdn.discordapp.com/attachments/686927724098748424/799879856841555978/download-2-16.png)](https://cds.networkforgamers.com/modpacks/)
 
-**TLauncher:** *Being Re-added To The Platform When We Drop forge support*
+**TLauncher:** Soon
 
 ## JOIN OUR DISCORD!
 [![discord](https://discordapp.com/api/guilds/664178166562029715/embed.png?style=banner3)][discord]
