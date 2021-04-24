@@ -99,7 +99,7 @@ There are multiple versions of the pack the launcher is the "full fat" version h
 
 **TLauncher:** *Being Re-added To The Platform When We Drop forge support*
 
-### JOIN OUR DISCORD!
+## JOIN OUR DISCORD!
 [![discord](https://discordapp.com/api/guilds/664178166562029715/embed.png?style=banner3)][discord]
 ---
 [discord]: https://discord.gg/ZXXc6mcd3d "Discord"
