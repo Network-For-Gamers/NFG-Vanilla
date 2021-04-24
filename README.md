@@ -40,7 +40,6 @@ A Mod Pack designed around our network, This pack is available on fabric and on 
 | Apple Skin                     |      1.0.11      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/appleskin |
 | Architectury                     |      1.12.145      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/architectury-fabric |
 | AuthMe                    |      1.4.0      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/auth-me |
-| AutoReconnect                    |      1.1.0      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/autoreconnect |
 | Bedrockify                    |      1.0.0      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/bedrockify |
 | BetterDroppedItems                    |      1.2.4      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/better-dropped-items |
 | BetterEnchantedBooks                    |      1.2.5      |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/better-enchanted-books |
@@ -74,7 +73,6 @@ A Mod Pack designed around our network, This pack is available on fabric and on 
 | RandomPatches             |      2.4.5     |      ✔️      |          ❌           | https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric |
 | SeamlessLoadingScreen            |      1.3.4    |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen |
 | Sneaktweak           |      1.4.0    |      ✔️      |          ❌           | https://www.curseforge.com/minecraft/mc-mods/sneak-tweak |
-| toolTipFix           |      1.0.2    |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/tooltipfix |
 | torohealth           |      1.16.4-fabric-4    |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators |
 | TRansliterationLib          |      1.0.4    |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/transliterationlib |
 | Vanguard-uninstaller           |      N/A    |      ✔️      |          ✔️           | N/A (AutoDownload?) |
