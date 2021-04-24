@@ -91,9 +91,7 @@ There are multiple versions of the pack the launcher is the "full fat" version h
 ## Links!
 **Launcher:**  [![download](https://cdn.discordapp.com/attachments/686927724098748424/799879856841555978/download-2-16.png)](https://cds.networkforgamers.com/launcher/)
 
-**Curse:** *Coming Soon!*  
-
-**Technic:** https://www.technicpack.net/modpack/nfg-vanilla.1772545
+**Technic:** [![download](https://cdn.discordapp.com/attachments/686927724098748424/799879856841555978/download-2-16.png)](https://www.technicpack.net/modpack/nfg-vanilla.1772545)
 
 **MultiMC/GDLauncher:**  [![download](https://cdn.discordapp.com/attachments/686927724098748424/799879856841555978/download-2-16.png)](https://cds.networkforgamers.com/modpacks/)
 
