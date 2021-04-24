@@ -7,9 +7,11 @@ A Mod Pack designed around our network, This pack is available on fabric and on 
 
 **please check with these servers that the mods this pack uses is okay to use on their server as we will not accept responsibility for any bans because of this pack!**
 
-## **Take Note:**
+## **Verions:**
  
-There are multiple versions of the pack the launcher is the "full fat" version how we intend and requires downloading our launcher to use, This pack is quite intense to run compared to the pack version "Lite version" which can be downloaded on any other launcher. The laucnher version was tested on a Ryzen 5 3400G and ran a 40FPS max with shaders and graphics setttings set to moderate this is not advised but can be done on this type of CPU we would suggest a dedicated graphics card to run the pack, the lite version is also available on our launcher which will run just aswell (if not better) than vanila minecraft with optifine and can expect 60-100+ FPS when using a ryzen 5 3400G.
+* NFG: Vanilla LTE - A lightweight Version of the pack it remove some of the more less needed features to free up memory and processor alloction for PC's that arent as powerful 
+
+* NFG: Vanilla - Full Fat Version
 
 ---
 
