@@ -80,6 +80,16 @@ A Mod Pack designed around our network, This pack is available on fabric and on 
 | ViaFabric           |      0.3.1    |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/viafabric |
 | wthit           |      2.7.0    |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/wthit |
 
+## Resources Included
+We use many reasources from many source and combine them you create brand ew texture we are not here to steal work though and encourage people to support these great resources we kinda own them for everything them provide!!!
+| Resource                           | In Dev | In Release | Link | 
+| :----------------------------- | :---------: | :------------------: | :------------------: |
+| Dramatic Skys                     |      ✔️      |          ❌           | https://www.curseforge.com/minecraft/texture-packs/dramatic-skys |
+| Shulker Box GUIs                     |      ✔️      |          ❌           | https://www.curseforge.com/minecraft/texture-packs/shulker-box-guis |
+| Color Corkination                     |      ✔️      |          ❌           | https://www.curseforge.com/minecraft/texture-packs/color-corkination |
+| Stay True                     |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/texture-packs/stay-true |
+| Vanilla Tweaks                     |      ✔️      |         ✔️           | https://vanillatweaks.net/ |
+
 
 ## Platform Status
 |      Platform       | On Latest |    Version    |
