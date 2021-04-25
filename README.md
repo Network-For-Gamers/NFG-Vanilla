@@ -116,3 +116,9 @@ most textures in this modpack are not ours we simply just made these packs compa
 ---
 [discord]: https://discord.gg/ZXXc6mcd3d "Discord"
 [NFGMC]: https://minecraft.networkforgamers.com "NFGMC"
+
+## usage and Licensing 
+|      Link       | agreement |
+| :-----------------: | :-------: |
+| https://creativecommons.org/licenses/by/4.0/ | Attribution 4.0 International |
+| https://vanillatweaks.net/terms/ | Usage Terms And Agreement |
