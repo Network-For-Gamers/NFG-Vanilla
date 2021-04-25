@@ -91,13 +91,14 @@ most textures in this modpack are not ours we simply just made these packs compa
 | Color Corkination                     |      ✔️      |          ❌           | https://www.curseforge.com/minecraft/texture-packs/color-corkination |
 | Stay True                     |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/texture-packs/stay-true |
 | Vanilla Tweaks                     |      ✔️      |         ✔️           | https://vanillatweaks.net/ |
+| Andro's Discord Emojis                     |      ✔️      |         ✔️           | https://github.com/Androkai/AndrosDiscordEmojis |
 
 
 ## Platform Status
 |      Platform       | On Latest |    Version    |
 | :-----------------: | :-------: | :----------: |
 |    Our Launcher     |     ❌     |  2.3.8    |
-|       MultiMC       |     ✔️     |   3.0.5   |
+|       MultiMC       |     ✔️     |   3.2.5   |
 |       TechnicPack       |     ❌     |   2.4.0   |
 |       TLauncher       |     ❌     |   2.4.0   |
 
