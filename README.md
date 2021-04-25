@@ -68,11 +68,11 @@ A Mod Pack designed around our network, This pack is available on fabric and on 
 | Multiconnect             |      1.3.36     |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/multiconnect |
 | NoAnnoyingSettings             |      1.1     |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/no-annoying-settings |
 | NotEnoughAnimations            |      1.2.3     |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/not-enough-animations |
-| OptiFabric             |      1.9.6     |      ✔️      |          ❌           | https://www.curseforge.com/minecraft/mc-mods/optifabric |
-| OptiFine             |      1.16.6_HD_U_G7     |      ✔️      |          ❌           | https://optifine.net/downloads |
-| RandomPatches             |      2.4.5     |      ✔️      |          ❌           | https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric |
+| OptiFabric             |      1.9.6     |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/optifabric |
+| OptiFine             |      1.16.6_HD_U_G7     |      ✔️      |          ✔️           | https://optifine.net/downloads |
+| RandomPatches             |      2.4.5     |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric |
 | SeamlessLoadingScreen            |      1.3.4    |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen |
-| Sneaktweak           |      1.4.0    |      ✔️      |          ❌           | https://www.curseforge.com/minecraft/mc-mods/sneak-tweak |
+| Sneaktweak           |      1.4.0    |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/sneak-tweak |
 | torohealth           |      1.16.4-fabric-4    |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators |
 | TRansliterationLib          |      1.0.4    |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/mc-mods/transliterationlib |
 | Vanguard-uninstaller           |      N/A    |      ✔️      |          ✔️           | N/A (AutoDownload?) |
