@@ -7,7 +7,7 @@ A Mod Pack designed around our network, This pack is available on fabric and on 
 
 **please check with these servers that the mods this pack uses is okay to use on their server as we will not accept responsibility for any bans because of this pack!**
 
-## **Verions:**
+## **Versions:**
  
 * NFG: Vanilla LTE - A lightweight Version of the pack it remove some of the more less needed features to free up memory and processor alloction for PC's that arent as powerful 
 
