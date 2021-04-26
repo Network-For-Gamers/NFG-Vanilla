@@ -84,14 +84,14 @@ A Mod Pack designed around our network, This pack is available on fabric and on 
 We use many reasources from many sources and combine them with our own in house textures, however we are not here to steal work though and encourage people to support these great resources we kinda own them for everything they provide!!! maybe pop them a download and a rating on the platforms they provide (the numbers help them) or even donate through any links they provide on their pages!
 
 most textures in this modpack are not ours we simply just made these packs compatible together and added some textures here and there and light editing of some textures
-| Resource                           | In Dev | In Release | Link | 
-| :----------------------------- | :---------: | :------------------: | :------------------: |
-| Dramatic Skys                     |      ✔️      |          ❌           | https://www.curseforge.com/minecraft/texture-packs/dramatic-skys |
-| Shulker Box GUIs                     |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/texture-packs/shulker-box-guis |
-| Color Corkination                     |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/texture-packs/color-corkination |
-| Stay True                     |      ✔️      |          ❌           | https://www.curseforge.com/minecraft/texture-packs/stay-true |
-| Vanilla Tweaks                     |      ✔️      |         ✔️           | https://vanillatweaks.net/ |
-| Andro's Discord Emojis                     |      ✔️      |         ✔️           | https://github.com/Androkai/AndrosDiscordEmojis |
+| Resource                           | In Dev | In Release | Link | Notes |
+| :----------------------------- | :---------: | :------------------: | :------------------: | :------------------: |
+| Dramatic Skys                     |      ❗❗       |          ❗❗            | https://www.curseforge.com/minecraft/texture-packs/dramatic-skys | Could not agree on usage agreement terms |
+| Shulker Box GUIs                     |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/texture-packs/shulker-box-guis | |
+| Color Corkination                     |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/texture-packs/color-corkination | |
+| Stay True                     |      ✔️      |          ❌           | https://www.curseforge.com/minecraft/texture-packs/stay-true | |
+| Vanilla Tweaks                     |      ✔️      |         ✔️           | https://vanillatweaks.net/ | |
+| Andro's Discord Emojis                     |      ✔️      |         ✔️           | https://github.com/Androkai/AndrosDiscordEmojis | |
 
 
 ## Platform Status
