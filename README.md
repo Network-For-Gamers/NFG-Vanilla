@@ -30,7 +30,7 @@ A Mod Pack designed around our network, This pack is available on fabric *and on
 | Feature | Mod Needed | Status | In Dev Branch | In Mod Pack | Notes |
 | :- | :-: | :-: | :-: | :-: | :-: |
 | Forge Mod Compatibility | PatchworkAPI | 🔄 | ❗ | ❌ ||
-| Textures remake | N/A | ❗ | ❗❗ | 🔄 | pack textures need doing to comp for OP |
+| Textures remake | N/A | ✔️ | ✔️ | 🔄 | pack textures need doing to comp for OP |
 | Icon Changes | N/A | ✔️ | ✔️ | ✔️ | icon changes for launcher and vanilla merger |
 | Pack Cleanup | N/A | ✔️ | ✔️ | ✔️ | icon changes for launcher and vanilla merger |
 
