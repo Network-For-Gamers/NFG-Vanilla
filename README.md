@@ -82,7 +82,7 @@ A Mod Pack designed around our network, This pack is available on fabric *and on
 | wthit                 | 2.7.0           |   ✔️   |     ✔️    | https://www.curseforge.com/minecraft/mc-mods/wthit                        |
 
 ## Resources Included
-We use many reasources from many sources and combine them with our own in house textures, however we are not here to steal work though and encourage people to support these great resources we kinda own them for everything they provide!!! maybe pop them a download and a rating on the platforms they provide (the numbers help them) or even donate through any links they provide on their pages!
+We use many reasources from many sources and combine them with our own in house textures, However we are not here to steal work though and encourage people to support these great resources we kinda owe them for everything they provide!!! maybe pop them a download and a rating on the platforms they provide (the numbers help them) or even donate through any links they provide on their pages!
 
 most textures in this modpack are not ours we simply just made these packs compatible together and added some textures here and there and light editing of some textures
 | Resource               | In Dev | In Release | Author          | Link | Notes |
