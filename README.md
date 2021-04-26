@@ -9,7 +9,7 @@ A Mod Pack designed around our network, This pack is available on fabric *and on
 
 ## **Versions:**
  
-* NFG: Vanilla LTE - A lightweight Version of the pack it remove some of the more less needed features to free up memory and processor alloction for PC's that arent as powerful 
+* NFG: Vanilla LTE - A lightweight Version of the pack it removes some of the more less needed features to free up memory and processor alloction for PC's that arent as powerful 
 
 * NFG: Vanilla - Full Fat Version
 
