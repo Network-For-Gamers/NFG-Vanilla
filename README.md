@@ -87,11 +87,11 @@ most textures in this modpack are not ours we simply just made these packs compa
 | Resource                           | In Dev | In Release | Link | Notes |
 | :----------------------------- | :---------: | :------------------: | :------------------: | :------------------: |
 | Dramatic Skys                     |      ❗❗       |          ❗❗            | https://www.curseforge.com/minecraft/texture-packs/dramatic-skys | Could not agree on usage agreement terms |
-| Shulker Box GUIs                     |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/texture-packs/shulker-box-guis | |
-| Color Corkination                     |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/texture-packs/color-corkination | |
+| Shulker Box GUIs                     |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/texture-packs/shulker-box-guis | Authorised usages terms see Licensing  |
+| Color Corkination                     |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/texture-packs/color-corkination | Authorised usages terms see Licensing  |
 | Stay True                     |      ✔️      |          ❌           | https://www.curseforge.com/minecraft/texture-packs/stay-true | |
-| Vanilla Tweaks                     |      ✔️      |         ✔️           | https://vanillatweaks.net/ | |
-| Andro's Discord Emojis                     |      ✔️      |         ✔️           | https://github.com/Androkai/AndrosDiscordEmojis | |
+| Vanilla Tweaks                     |      ✔️      |         ✔️           | https://vanillatweaks.net/ | Authorised usages terms see Licensing  |
+| Andro's Discord Emojis                     |      ✔️      |         ✔️           | https://github.com/Androkai/AndrosDiscordEmojis | Authorised usages terms see Licensing  |
 
 
 ## Platform Status
