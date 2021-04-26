@@ -99,8 +99,8 @@ most textures in this modpack are not ours we simply just made these packs compa
 | :----------: | :-------: | :-----------: |
 | Our Launcher |    ❎    |     2.3.8     |
 | MultiMC      |    ✅    |     3.2.5     |
-| TechnicPack  |    ❎    |     2.4.0     |
-| TLauncher    |    ❎    |     2.4.0     |
+| TechnicPack  |    ❎    |     2.2.0     |
+| TLauncher    |           |               |
 
 ## Links!
 **Launcher:**  [![download](https://cdn.discordapp.com/attachments/686927724098748424/799879856841555978/download-2-16.png)](https://cds.networkforgamers.com/launcher/) *DO NOT USE THIS IT IS CURRENTLY BEING RECODED*
