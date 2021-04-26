@@ -53,7 +53,7 @@ A Mod Pack designed around our network, This pack is available on fabric *and on
 | CraftPresence         |  1.8.1          |   ✔️   |     ✔️    | https://www.curseforge.com/minecraft/mc-mods/craftpresence                |
 | CrossBinding          |  1.0            |   ✔️   |     ✔️    | https://www.curseforge.com/minecraft/mc-mods/crossbinding                 |
 | CustomHUD             |  1.2.1          |   ✔️   |     ✔️    | https://www.curseforge.com/minecraft/mc-mods/customhud                    |
-| DarkLoadingScreen     |  1.6.3          |   ✔️   |     ✔️    | https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen          |
+| DarkLoadingScreen     |  1.6.3          |   ⚠️   |     ✔️    | https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen          |
 | DynamicFPS            |  2.0.1          |   ✔️   |     ✔️    | https://www.curseforge.com/minecraft/mc-mods/dynamic-fps                  |
 | FabricAPI             |  0.33.0         |   ✔️   |     ✔️    | https://www.curseforge.com/minecraft/mc-mods/fabric-api                   |
 | FallingLeaves         |  1.5.0          |   ✔️   |     ✔️    | https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric        |
