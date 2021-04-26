@@ -107,7 +107,7 @@ most textures in this modpack are not ours we simply just made these packs compa
 
 **Technic:** [![download](https://cdn.discordapp.com/attachments/686927724098748424/799879856841555978/download-2-16.png)](https://www.technicpack.net/modpack/nfg-vanilla.1772545)
 
-**MultiMC/GDLauncher:**  [![download](https://cdn.discordapp.com/attachments/686927724098748424/799879856841555978/download-2-16.png)](https://cds.networkforgamers.com/modpacks/)
+**MultiMC/GDLauncher:**  Soon (Dev Version are available from Discord donators have pre release dev version access which are released every 4 days if available)
 
 **TLauncher:** Soon
 
