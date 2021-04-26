@@ -89,7 +89,7 @@ most textures in this modpack are not ours we simply just made these packs compa
 | Dramatic Skys          |   ❗❗   |     ❗❗     |                 | | Could not agree on usage agreement terms |
 | Shulker Box GUIs       |   ✔️   |    ✔️     | petasiwastaken  | https://www.curseforge.com/minecraft/texture-packs/shulker-box-guis | Authorised usages terms see [Licensing](https://github.com/Network-For-Gamers/NFG-Vanilla/blob/main/README.md#usage-and-licensing)  |
 | Color Corkination      |   ✔️   |    ✔️     | petasiwastaken  | https://www.curseforge.com/minecraft/texture-packs/color-corkination | Authorised usages terms see [Licensing](https://github.com/Network-For-Gamers/NFG-Vanilla/blob/main/README.md#usage-and-licensing)  |
-| Stay True              |   ✔️   |    ❌     | | https://www.curseforge.com/minecraft/texture-packs/stay-true | |
+| Stay True              |   ✔️   |    ❌     | backto4myula | https://www.curseforge.com/minecraft/texture-packs/stay-true | |
 | Vanilla Tweaks         |   ✔️   |    ✔️     |  André Paulo, Stridey, and Grant | https://vanillatweaks.net/ | Authorised usages terms see [Licensing](https://github.com/Network-For-Gamers/NFG-Vanilla/blob/main/README.md#usage-and-licensing)           |
 | Andro's Discord Emojis |   ✔️   |    ✔️     | Christoph Krüger | https://github.com/Androkai/AndrosDiscordEmojis | Authorised usages terms see [Licensing](https://github.com/Network-For-Gamers/NFG-Vanilla/blob/main/README.md#usage-and-licensing)  |
 
