@@ -103,7 +103,7 @@ most textures in this modpack are not ours we simply just made these packs compa
 | TLauncher    |    ❎    |     2.4.0     |
 
 ## Links!
-**Launcher:**  [![download](https://cdn.discordapp.com/attachments/686927724098748424/799879856841555978/download-2-16.png)](https://cds.networkforgamers.com/launcher/)
+**Launcher:**  [![download](https://cdn.discordapp.com/attachments/686927724098748424/799879856841555978/download-2-16.png)](https://cds.networkforgamers.com/launcher/) *DO NOT USE THIS IT IS CURRENTLY BEING RECODED*
 
 **Technic:** [![download](https://cdn.discordapp.com/attachments/686927724098748424/799879856841555978/download-2-16.png)](https://www.technicpack.net/modpack/nfg-vanilla.1772545)
 
