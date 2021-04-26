@@ -91,7 +91,7 @@ most textures in this modpack are not ours we simply just made these packs compa
 | Color Corkination                     |      ✔️      |          ✔️           | https://www.curseforge.com/minecraft/texture-packs/color-corkination | Authorised usages terms see Licensing  |
 | Stay True                     |      ✔️      |          ❌           | https://www.curseforge.com/minecraft/texture-packs/stay-true | |
 | Vanilla Tweaks                     |      ✔️      |         ✔️           | https://vanillatweaks.net/ | Authorised usages terms see Licensing  |
-| Andro's Discord Emojis                     |      ✔️      |         ✔️           | https://github.com/Androkai/AndrosDiscordEmojis | Authorised usages terms see Licensing  |
+| Andro's Discord Emojis                     |      ✔️      |         ✔️           | https://github.com/Androkai/AndrosDiscordEmojis | Authorised usages terms see [Licensing]()  |
 
 
 ## Platform Status
