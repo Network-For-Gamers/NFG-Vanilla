@@ -30,10 +30,8 @@ A Mod Pack designed around our network, This pack is available on fabric *and on
 | Feature | Mod Needed | Status | In Dev Branch | In Mod Pack | Notes |
 | :- | :-: | :-: | :-: | :-: | :-: |
 | Forge Mod Compatibility | PatchworkAPI | 🔄 | ❗ | ❌ ||
-| Textures remake | N/A | ✔️ | ✔️ | ✔️ | pack textures need doing to comp for OP |
-| Icon Changes | N/A | ✔️ | ✔️ | ✔️ | icon changes for launcher and vanilla merger |
-| Pack Cleanup | N/A | ✔️ | ✔️ | ✔️ | remove un-used stuff |
 | network custom textures | N/A | 🔄 | ❌ | ❌ | Texture pack for NFG Netowrks custom items/blocks |
+| Make LTE Version        | lithium, StarLight(it compat with OP) | 🔄 | ❌ | ❌ | optimise minecraft for low end hardware |
 
 ## Mods Included
 | Mod                   | Mod Version     | In Dev | In Release | Link                                                                      | 
