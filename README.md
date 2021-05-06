@@ -84,7 +84,6 @@ We use many reasources from many sources and combine them with our own in house 
 most textures in this modpack are not ours we simply just made these packs compatible together and added some textures here and there and light editing of some textures
 | Resource               | In Dev | In Release | Author          | Link | Notes |
 | :--------------------- | :----: | :--------: | :-------------: | :------------------: | :-------------: |
-| Dramatic Skys          |   ❗❗   |     ❗❗     |                 | | Could not agree on usage agreement terms |
 | Shulker Box GUIs       |   ✔️   |    ✔️     | petasiwastaken  | https://www.curseforge.com/minecraft/texture-packs/shulker-box-guis | Authorised usages terms see [Licensing](https://github.com/Network-For-Gamers/NFG-Vanilla/blob/main/README.md#usage-and-licensing)  |
 | Color Corkination      |   ✔️   |    ✔️     | petasiwastaken  | https://www.curseforge.com/minecraft/texture-packs/color-corkination | Authorised usages terms see [Licensing](https://github.com/Network-For-Gamers/NFG-Vanilla/blob/main/README.md#usage-and-licensing)  |
 | Stay True              |   ✔️   |    ❌     | backto4myula | https://www.curseforge.com/minecraft/texture-packs/stay-true | |
