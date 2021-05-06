@@ -69,8 +69,10 @@ A Mod Pack designed around our network, This pack is available on fabric *and on
 | OptiFabric            |  1.9.6          |   ✔️   |     ✔️    | | https://www.curseforge.com/minecraft/mc-mods/optifabric                   |
 | OptiFine              |  1.16.6_HD_U_G7 |   ✔️   |     ✔️    | | https://optifine.net/downloads                                            |
 | RandomPatches         |  2.4.5          |   ✔️   |     ✔️    | | https://www.curseforge.com/minecraft/mc-mods/randompatches-fabric         |
+| Smooth Scrolling      |  3.0.3          |   ✔️   |     ✔️    | | https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric/files |
 | SeamlessLoadingScreen |  1.3.4          |   ✔️   |     ✔️    | | https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen      |
 | Sneaktweak            |  1.4.0          |   ✔️   |     ✔️    | | https://www.curseforge.com/minecraft/mc-mods/sneak-tweak                  |
+| Slight GUI Modifications |  1.7.1          |   ✔️   |     ✔️    | | https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications       |
 | torohealth            | 1.16.4-fabric-4 |    ❗   |     ✔️    | | https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators |
 | TRansliterationLib    | 1.0.4           |   ✔️   |     ✔️    | | https://www.curseforge.com/minecraft/mc-mods/transliterationlib           |
 | Vanguard-uninstaller  | N/A             |   ✔️   |     ✔️    | | N/A (AutoDownload?)                                                       |
